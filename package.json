@@ -1,0 +1,24 @@
+{
+  "name": "2020-04-11-Markdown-Editor",
+  "version": "1.0.0",
+  "description": "$25 CAD Amazon gift card + bragging rights.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anismemon/2020-04-11-Markdown-Editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anismemon/2020-04-11-Markdown-Editor/issues"
+  },
+  "homepage": "https://github.com/anismemon/2020-04-11-Markdown-Editor#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "marked": "^0.8.2"
+  }
+}

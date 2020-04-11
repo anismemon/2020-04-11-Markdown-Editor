@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#preview{
+    height: 200px;
+    width: 400px;
+    border: 2px solid black
+}
+
+#source{
+    height: 200px;
+    width: 400px;
+    border: 2px solid black
+} 
+
+.output{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: auto;
+
+}
+
+.textblock{
+    padding: 2rem
+}
+
+#text-container{
+    display: flex;
+    flex-direction: row
+}
